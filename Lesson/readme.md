@@ -1,7 +1,7 @@
 lesson files
 
 Lesson 2 YT
-[![Lesson 2 YT](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=https://youtu.be/qDmwxpIlXhM)
+[![Lesson 2 YT](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=qDmwxpIlXhM)
 
 Lesson 3 and 4 YT
 [![Lesson 3 and 4 YT](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=https://youtu.be/Vh8HlaUl5Lw)
