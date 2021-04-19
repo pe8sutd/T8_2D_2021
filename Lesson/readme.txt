@@ -1,13 +1,13 @@
 lesson files
 
 Lesson 2 YT
-https://youtu.be/qDmwxpIlXhM
+[![Lesson 2 YT](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=https://youtu.be/qDmwxpIlXhM)
 
 Lesson 3 and 4 YT
-https://youtu.be/Vh8HlaUl5Lw
+[![Lesson 3 and 4 YT](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=https://youtu.be/Vh8HlaUl5Lw)
 
 Lesson 5
-https://youtu.be/Dewxtu8HR5s
+[![Lesson 5 YT](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=https://youtu.be/Dewxtu8HR5s)
 
 Atlas 200dk (A) Hardware:
 https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsutdapac-my.sharepoint.com%2F%3Au%3A%2Fg%2Fpersonal%2Fmaoyang_xiang_mymail_sutd_edu_sg%2FEQrQzhFWZ09Nn75O67sy_zIBHdHEPeJ4Be-3oAW1y9hYHQ%3Fe%3DIMRgMv&data=04%7C01%7Ctthui%40sutd.edu.sg%7Cc73f5f578aab42b02b7208d8fd7f42c8%7C3476b776e9904f72b95062489831623d%7C0%7C0%7C637538070319269975%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=E%2BZRNlOCSY7aKf4myngg0f4QUg4hN26h2mEUSLyN9XM%3D&reserved=0
