@@ -14,3 +14,6 @@ https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsutdapac-my.sh
 
 Virtual Machine:
 https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsutdapac-my.sharepoint.com%2F%3Af%3A%2Fg%2Fpersonal%2Fmaoyang_xiang_mymail_sutd_edu_sg%2FEk0R_6FcsIpPsjXjpWMu2eUBj_oMYtoEZKK7Pj8w8TCMSA%3Fe%3DqtL2eR&data=04%7C01%7Ctthui%40sutd.edu.sg%7Cc73f5f578aab42b02b7208d8fd7f42c8%7C3476b776e9904f72b95062489831623d%7C0%7C0%7C637538070319269975%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=6o4uBvxPjjcy1x%2BeK7qNyueMSX79dy1NLRpuCezmuXI%3D&reserved=0
+
+Reference:
+[1] E. Y. Ali and F. Nicolls, "3D Pose Estimation and Tracking of an Electricity Pylon," 2020 International SAUPEC/RobMech/PRASA Conference, 2020, pp. 1-7, doi: 10.1109/SAUPEC/RobMech/PRASA48453.2020.9041094. 
