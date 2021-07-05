@@ -17,3 +17,10 @@ https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsutdapac-my.sh
 
 Reference:
 [1] E. Y. Ali and F. Nicolls, "3D Pose Estimation and Tracking of an Electricity Pylon," 2020 International SAUPEC/RobMech/PRASA Conference, 2020, pp. 1-7, doi: 10.1109/SAUPEC/RobMech/PRASA48453.2020.9041094. 
+
+2021-July-5th
+-------------
+Updated instruction was included "Quick+Setup+Guide+for+Atlas+200DK-SUTD_V1.pdf"
+Important highlight:
+1. In Page 23, after ssh Atlas 200dk, we have to give permission to UARR Port;
+2. In Page 27, Change baud rate from 38400 to 9600;
